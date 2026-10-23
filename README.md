@@ -33,21 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 - **[NQT-Infotech](https://github.com/erkuldeepkushwah/NQT-Infotech)** — IT services company website built with **Next.js** and TypeScript
