@@ -23,30 +23,13 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
 
-![React](https://img.shields.io/badge/React-20232A
-![Next.js](https://img.shields.io/badge/Next.js-000000
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4
-![HTML5](https://img.shields.io/badge/HTML5-E34F26
-![CSS3](https://img.shields.io/badge/CSS3-1572B6
+**Backend:** Node.js, Express, REST APIs
 
-**Backend**
+**Database:** MongoDB
 
-![Node.js](https://img.shields.io/badge/Node.js-339933
-![Express](https://img.shields.io/badge/Express-000000
-![REST API](https://img.shields.io/badge/REST_API-005571
-
-**Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248
-![Git](https://img.shields.io/badge/Git-F05032
-![GitHub](https://img.shields.io/badge/GitHub-181717
-![Vercel](https://img.shields.io/badge/Vercel-000000
-![Postman](https://img.shields.io/badge/Postman-FF6C37
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC
+**Tools & Platforms:** Git, GitHub, Vercel, Postman, VS Code
 
 ---
 
@@ -80,13 +63,9 @@
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-er.kuldeepkushwah%40gmail.com-D14836
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2078986%2092133-25D366
-[![GitHub](https://img.shields.io/badge/GitHub-erkuldeepkushwah-181717
-
-</div>
+- **Email:** er.kuldeepkushwah@gmail.com
+- **Phone:** +91 78986 92133
+- **GitHub:** [github.com/erkuldeepkushwah](https://github.com/erkuldeepkushwah)
 
 ---
 
