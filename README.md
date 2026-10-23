@@ -4,7 +4,6 @@
 
 ### Full Stack Developer · MERN & Next.js
 
-<img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
 
 </div>
 
